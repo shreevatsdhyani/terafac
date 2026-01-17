@@ -34,7 +34,7 @@ This project tackles the fine-grained image classification task using the Oxford
 
 The project is organized into modular Google Colab notebooks for reproducibility.
 
-*   **[Level 1 Notebook]([https://drive.google.com/file/d/1yhBEmErBdwlp6leXrtWEOXApgi9QYvCR/view?usp=sharing])**: Baseline implementation.
+*   **[Level 1 Notebook](https://drive.google.com/file/d/1yhBEmErBdwlp6leXrtWEOXApgi9QYvCR/view?usp=sharing)**: Baseline implementation.
 *   **[Level 2 Notebook](https://drive.google.com/file/d/1bj_2pULuXdoZIMMZC2fWpKFJlSlZVKeK/view?usp=drive_link)**: Advanced data augmentation techniques.
 *   **[Level 3 Notebook](https://drive.google.com/file/d/1eA8A9NhbrWEpYffJs3JcBxjRzZ0zRFoe/view?usp=drive_link)**: Custom Architecture design (CBAM).
 *   **[Level 4 Notebook](https://drive.google.com/file/d/16we_9dPeowoxuiKRnxzPCwN6fOPq7DdS/view?usp=drive_link)**: Ensemble modeling and final evaluation.
